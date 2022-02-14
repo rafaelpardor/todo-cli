@@ -1,5 +1,4 @@
-# Go Todo
+# TODO Cli
 
-I want to create my own TODO list CLI, it will behave the way I want and 
-do the necesary to work as a Todo list, and fast ideas notes, nothing
-less, nothing more.
+I want to create my own TODO list CLI, it will be fast, behave the way I
+want to and do the necesary to work as a Todo list.
