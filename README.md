@@ -5,6 +5,6 @@ want to and do the necesary to work as a Todo list.
 
 ## Todo
 
-* [ ] Go or Bash?
+* [x] Go 
 * [ ] It will edit a global file?
 * [ ] It will have topics based on `##` heading?
